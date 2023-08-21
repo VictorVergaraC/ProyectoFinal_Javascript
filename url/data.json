@@ -1,0 +1,11 @@
+[
+    { "id": 1, "nombre": "Polera básica blanca",     "precio": 7990,  "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5429109-600-900?v=1778004006&width=600&height=900&aspect=true" },
+    { "id": 2, "nombre": "Polera básica negra",      "precio": 4990,  "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5387671/Polera-de-algodon-Oversized-Fit---Negro---H-M-CL.jpg?v=638243926775670000" },
+    { "id": 3, "nombre": "Polerón básico beige",     "precio": 12990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/4913754-483-725/Poleron-hoodie-Relaxed-Fit---Beige-grisaceo---H-M-CL.jpg?v=638066793364100000" },
+    { "id": 4, "nombre": "Polerón básico negro",     "precio": 9990,  "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5299097-483-725/Poleron-Relaxed-Fit---Negro---H-M-CL.jpg?v=638201586566100000" },
+    { "id": 5, "nombre": "Pantalón básico negro",    "precio": 14990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/4965302-483-725/Joggers-de-algodon-Relaxed-Fit---Negro-apagado---H-M-CL.jpg?v=638083210170700000" },
+    { "id": 6, "nombre": "Bolso bandolera",          "precio": 13990, "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5367128-483-725/Bolso-bandolera---Negro---H-M-CL.jpg?v=638235282952770000" },
+    { "id": 7, "nombre": "Polera sin mangas negra",  "precio": 4990,  "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5010648-600-900?v=1777965356&width=600&height=900&aspect=true" },
+    { "id": 8, "nombre": "Polera sin mangas blanca", "precio": 4990,  "imgUrl": "https://hmchile.vtexassets.com/arquivos/ids/5010690-600-900?v=1778004159&width=600&height=900&aspect=true" },
+    { "id": 9, "nombre": "Polera cuello piqué",      "precio": 7990,  "imgUrl": " https://hmchile.vtexassets.com/arquivos/ids/5177688-600-900?v=1777961810&width=600&height=900&aspect=true" }
+]
